@@ -52,19 +52,19 @@ body{
 .text{
         position: absolute;
         height: 18%;
-        bottom: 463px;
-        right: 558px;
+        bottom: 570px;
+        right: 515px;
 }
 .background{
-    height: 71%;
+    height: 72%;
     padding-top: 13.5%;
 }
 p1{
     font-family:cursive ;
  font-size: 1.7em;
 position: absolute;
-bottom: 430px;
-left: 629px;
+bottom: 527px;
+left: 600px;
 color:#db9a00 ;
 }
 p2{
